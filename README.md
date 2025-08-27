@@ -13,8 +13,7 @@
 Sou **Guilherme Emanoel**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por programação.  
 Busco constantemente evoluir minhas habilidades e aplicar boas práticas no desenvolvimento de software.  
 
-- 🔹 Atualmente focado em **Desenvolvimento Web**  
-- 🔹 Estudando **React** e aprofundando em **Python + MySQL**  
+- 🔹 Atualmente focado em **Desenvolvimento Web**    
 - 🔹 Gosto de trabalhar em equipe usando **Git/GitHub**  
 - 🔹 Sempre aprendendo novas tecnologias  
 
@@ -33,8 +32,8 @@ Busco constantemente evoluir minhas habilidades e aplicar boas práticas no dese
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeemanoel099&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeemanoel099&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-dev099&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dev099&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
